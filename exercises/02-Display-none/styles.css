@@ -1,1 +1,13 @@
-/* your code here */
+.hidden {
+	visibility: hidden;
+}
+
+.nodisplay {
+	display: none;
+}
+li {
+	display: inline;
+}
+strong {
+	display: block;
+}

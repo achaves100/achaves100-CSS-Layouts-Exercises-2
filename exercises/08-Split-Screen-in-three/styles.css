@@ -1,12 +1,23 @@
 body {
 	margin: 0;
 }
+.Parent {
+	background: gray;
+	display: flex;
+	height: 100%;
+}
 #sectionA {
 	background: blue;
+	width: 33%;
+	height: 600px;
 }
 #sectionB {
 	background: red;
+	width: 33%;
+	height: 600px;
 }
 #sectionC {
 	background: green;
+	width: 33%;
+	height: 600px;
 }
